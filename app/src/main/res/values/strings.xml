@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MojiRacuni</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="tab_text_1">Bills</string>
+    <string name="tab_text_2">All</string>
+    <string name="tab_text_3">Account</string>
+
+    <string-array name="Date">
+        <item>1 Year</item>
+        <item>1 Month</item>
+        <item>6 Months</item>
+
+    </string-array>
+
+</resources>

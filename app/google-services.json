@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "915363599997",
+    "project_id": "mojiracuni-c80d2",
+    "storage_bucket": "mojiracuni-c80d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:915363599997:android:16dba0f15490a85ea14314",
+        "android_client_info": {
+          "package_name": "com.example.mojiracuni"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "915363599997-4obljvfdjkrbrmujvu2v3ct0htdjs7hv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmvzTvNE-39vBSghkPeS9X96FPbulzYJU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "915363599997-4obljvfdjkrbrmujvu2v3ct0htdjs7hv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
